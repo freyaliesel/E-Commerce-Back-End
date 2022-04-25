@@ -9,7 +9,7 @@ This assignment was to build models to maintain a database for an e-commerce com
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
-- [License](#license)
+- [Copyright](#copyright)
 
 ## Installation
 
@@ -17,13 +17,13 @@ User needs to create a `.env` file in the root folder containing variables for t
 
 ## Usage
 
-link to video walkthrough
+[Link to video walkthrough](https://drive.google.com/file/d/1HIg4HJ5KqtvwETwkJwQFqu6JzXrj246w/view)
 
 ## Contact
 
 Find more projects at [github.com/freyaliesel](https://github.com/freyaliesel)
 For questions, email [freyacodes@gmail.com](mailto:freyacodes@gmail.com)
 
-## License
+## Copyright
 
  Copyright (C) K Glidden 2022
